@@ -1,6 +1,6 @@
 import sys
-from logger import logging       # comment this line while in production
-#from src.logger import logging  # comment this line while testing this file
+#from logger import logging       # comment this line while in production
+from src.logger import logging  # comment this line while testing this file
 
 def error_message_detail(error, error_detail:sys):
     _, _, exc_tb = error_detail.exc_info()
