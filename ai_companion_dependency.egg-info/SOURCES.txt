@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+ai_companion_dependency.egg-info/PKG-INFO
+ai_companion_dependency.egg-info/SOURCES.txt
+ai_companion_dependency.egg-info/dependency_links.txt
+ai_companion_dependency.egg-info/requires.txt
+ai_companion_dependency.egg-info/top_level.txt
+src/__init__.py
+src/exception.py
+src/logger.py
+src/utils.py

@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: ai-companion-dependency
+Version: 0.1.0
+Summary: Add your description here
+Author: Aditya Banerjee
+Author-email: adityabanerjee171@gmail.com
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: ipykernel>=7.3.0
+Requires-Dist: matplotlib>=3.11.1
+Requires-Dist: numpy>=2.5.2
+Requires-Dist: pandas>=3.0.5
+Requires-Dist: scikit-learn>=1.9.0
+Requires-Dist: seaborn>=0.13.2
+Dynamic: author
+Dynamic: author-email
